@@ -1,2 +1,2 @@
-# android_device_samsung_espresso3g
-device tree of Samsung Galaxy Tab2
+android_device_samsung_espresso3g
+============================

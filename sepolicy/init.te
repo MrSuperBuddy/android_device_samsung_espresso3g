@@ -1,2 +1,0 @@
-# Requied to load shim libs
-allow init rild:process noatsecure;
